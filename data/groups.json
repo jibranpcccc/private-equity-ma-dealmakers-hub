@@ -1,0 +1,512 @@
+[
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-1",
+    "title": "r/investing Long Term Wealth",
+    "platform": "Reddit",
+    "category": "Investing",
+    "memberCount": "2,600,000+ members",
+    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
+    "tags": [
+      "investing",
+      "stocks",
+      "wealth",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-2",
+    "title": "r/stocks Market News",
+    "platform": "Reddit",
+    "category": "Stock Market",
+    "memberCount": "6,400,000+ members",
+    "description": "Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.",
+    "joinUrl": "https://www.reddit.com/r/stocks/",
+    "tags": [
+      "stocks",
+      "wall-street",
+      "earnings",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-3",
+    "title": "r/personalfinance Money Management",
+    "platform": "Reddit",
+    "category": "Personal Finance",
+    "memberCount": "19,000,000+ members",
+    "description": "The world's largest personal finance community covering budgeting, high-yield cash, 401(k)s, and tax efficiency.",
+    "joinUrl": "https://www.reddit.com/r/personalfinance/",
+    "tags": [
+      "personal-finance",
+      "budgeting",
+      "savings",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-4",
+    "title": "r/financialindependence FIRE Hub",
+    "platform": "Reddit",
+    "category": "Financial Independence",
+    "memberCount": "2,200,000+ members",
+    "description": "Community dedicated to Financial Independence, Retire Early (FIRE) strategies, safe withdrawal rates, and frugality.",
+    "joinUrl": "https://www.reddit.com/r/financialindependence/",
+    "tags": [
+      "fire",
+      "retirement",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-5",
+    "title": "r/wallstreetbets Alpha & Options",
+    "platform": "Reddit",
+    "category": "Trading",
+    "memberCount": "16,500,000+ members",
+    "description": "High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.",
+    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
+    "tags": [
+      "wsb",
+      "trading",
+      "options",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-6",
+    "title": "r/realestateinvesting Wealth Hub",
+    "platform": "Reddit",
+    "category": "Real Estate",
+    "memberCount": "540,000+ members",
+    "description": "Strategies for rental property acquisition, BRRRR method, commercial syndication, and 1031 tax exchanges.",
+    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
+    "tags": [
+      "real-estate",
+      "syndications",
+      "investing",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-discord-7",
+    "title": "Stock Market Discord Hub",
+    "platform": "Discord",
+    "category": "Trading & Stocks",
+    "memberCount": "110,000+ members",
+    "description": "Active market discord providing live voice trading rooms, technical chart analysis, and economic calendar feeds.",
+    "joinUrl": "https://discord.gg/stocks",
+    "tags": [
+      "stocks",
+      "trading",
+      "discord",
+      "market"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-telegram-8",
+    "title": "Bloomberg Market Feed Channel",
+    "platform": "Telegram",
+    "category": "Market News",
+    "memberCount": "140,000+ members",
+    "description": "Rapid market headlines, Federal Reserve rate decisions, treasury yields, and global commodity moves.",
+    "joinUrl": "https://t.me/bloomberg",
+    "tags": [
+      "bloomberg",
+      "macro",
+      "telegram",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-forum-9",
+    "title": "Bogleheads Forum Community",
+    "platform": "Forum",
+    "category": "Passive Investing",
+    "memberCount": "250,000+ members",
+    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
+    "joinUrl": "https://bogleheads.org/forum/",
+    "tags": [
+      "bogleheads",
+      "indexing",
+      "forum",
+      "passive-investing"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-forum-10",
+    "title": "BiggerPockets Real Estate Forum",
+    "platform": "Forum",
+    "category": "Real Estate",
+    "memberCount": "2,000,000+ members",
+    "description": "The definitive online community for real estate investors, syndicators, wholesalers, and property managers.",
+    "joinUrl": "https://www.biggerpockets.com/forums",
+    "tags": [
+      "biggerpockets",
+      "real-estate",
+      "forum",
+      "wholesaling"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-11",
+    "title": "Real Estate Mastermind Subreddit",
+    "platform": "Reddit",
+    "category": "Real Estate",
+    "memberCount": "850,000+ members",
+    "description": "Official discussion hub for real estate market trends, off-market deal contracts, and closing strategies.",
+    "joinUrl": "https://www.reddit.com/r/RealEstate/",
+    "tags": [
+      "real-estate",
+      "contracts",
+      "market-trends",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-12",
+    "title": "Commercial Real Estate & Syndications",
+    "platform": "Reddit",
+    "category": "Commercial",
+    "memberCount": "120,000+ members",
+    "description": "High-tier institutional and private syndication community covering multifamily assets, cap rates, and deal structuring.",
+    "joinUrl": "https://www.reddit.com/r/CommercialRealEstate/",
+    "tags": [
+      "commercial",
+      "syndication",
+      "multifamily",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-13",
+    "title": "Landlords & Asset Managers Guild",
+    "platform": "Reddit",
+    "category": "Landlords",
+    "memberCount": "150,000+ members",
+    "description": "Property management operational insights, tenant screening protocols, and rental cashflow optimization discussions.",
+    "joinUrl": "https://www.reddit.com/r/Landlord/",
+    "tags": [
+      "landlords",
+      "rentals",
+      "cashflow",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-14",
+    "title": "Property Investing & Deal Sourcing",
+    "platform": "Reddit",
+    "category": "Property Deals",
+    "memberCount": "45,000+ members",
+    "description": "Direct community for finding off-market discounted deals, bird-dogging, and wholesaling contract assignments.",
+    "joinUrl": "https://www.reddit.com/r/propertyinvesting/",
+    "tags": [
+      "property-deals",
+      "off-market",
+      "wholesaling",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-15",
+    "title": "Homeowners & Renovation Value Network",
+    "platform": "Reddit",
+    "category": "Equity",
+    "memberCount": "1,200,000+ members",
+    "description": "Renovation cost benchmarks, contractor vetting, and property equity enhancement strategies.",
+    "joinUrl": "https://www.reddit.com/r/homeowners/",
+    "tags": [
+      "equity",
+      "renovation",
+      "property",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-16",
+    "title": "Acquisitions & First-Time Buyers",
+    "platform": "Reddit",
+    "category": "Acquisitions",
+    "memberCount": "350,000+ members",
+    "description": "Entry strategies, FHA/conventional financing nuances, and acquisition checklists for emerging investors.",
+    "joinUrl": "https://www.reddit.com/r/FirstTimeHomeBuyer/",
+    "tags": [
+      "acquisitions",
+      "financing",
+      "buyers",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-17",
+    "title": "Realtors & Investor Agents Exchange",
+    "platform": "Reddit",
+    "category": "Realtors",
+    "memberCount": "130,000+ members",
+    "description": "Network of investor-friendly licensed agents, pocket listings, MLS insights, and broker collaboration.",
+    "joinUrl": "https://www.reddit.com/r/realtors/",
+    "tags": [
+      "realtors",
+      "mls",
+      "pocket-listings",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-18",
+    "title": "PropTech & Automated Deal Finding",
+    "platform": "Reddit",
+    "category": "Proptech",
+    "memberCount": "35,000+ members",
+    "description": "Modern software, scrapers, automated skip tracing tools, and CRM pipelines for wholesale deal flow.",
+    "joinUrl": "https://www.reddit.com/r/RealEstateTechnology/",
+    "tags": [
+      "proptech",
+      "skip-tracing",
+      "automation",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-19",
+    "title": "Mortgages & Creative Financing Hub",
+    "platform": "Reddit",
+    "category": "Creative Finance",
+    "memberCount": "65,000+ members",
+    "description": "Subject-to financing, seller finance notes, hard money lending, and BRRRR refinancing execution.",
+    "joinUrl": "https://www.reddit.com/r/Mortgages/",
+    "tags": [
+      "creative-finance",
+      "mortgages",
+      "lending",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-20",
+    "title": "Real Estate Tax & 1031 Exchange Guild",
+    "platform": "Reddit",
+    "category": "Tax Strategy",
+    "memberCount": "280,000+ members",
+    "description": "Tax shelter strategies, cost segregation studies, 1031 tax-deferred exchanges, and depreciation deductions.",
+    "joinUrl": "https://www.reddit.com/r/tax/",
+    "tags": [
+      "tax-strategy",
+      "1031-exchange",
+      "depreciation",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-21",
+    "title": "Wealth Building & Equity Stacking",
+    "platform": "Reddit",
+    "category": "Wealth",
+    "memberCount": "450,000+ members",
+    "description": "Strategic allocation, leverage optimization, and portfolio growth across real estate assets.",
+    "joinUrl": "https://www.reddit.com/r/FinancialPlanning/",
+    "tags": [
+      "wealth",
+      "financial-planning",
+      "equity",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-discord-22",
+    "title": "Real Estate Global Discord Server",
+    "platform": "Discord",
+    "category": "Discord",
+    "memberCount": "25,000+ members",
+    "description": "Largest verified real estate Discord server with active voice channels, deal pitch rooms, and mentorship.",
+    "joinUrl": "https://discord.gg/realestate",
+    "tags": [
+      "discord",
+      "deal-pitch",
+      "voice-hangouts",
+      "networking"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-discord-23",
+    "title": "Global Investing & Real Estate Guild",
+    "platform": "Discord",
+    "category": "Investing",
+    "memberCount": "150,000+ members",
+    "description": "Multi-asset investment discussions with dedicated real estate channels, market updates, and portfolio tracking.",
+    "joinUrl": "https://discord.gg/investing",
+    "tags": [
+      "investing",
+      "real-estate",
+      "discord",
+      "portfolios"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-discord-24",
+    "title": "Wealth & Real Estate Syndicate",
+    "platform": "Discord",
+    "category": "Wealth",
+    "memberCount": "40,000+ members",
+    "description": "Private syndications, capital pooling, deal vetting, and joint venture partnerships in multifamily real estate.",
+    "joinUrl": "https://discord.gg/wealth",
+    "tags": [
+      "wealth",
+      "syndicates",
+      "joint-ventures",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-discord-25",
+    "title": "Finance & Cash Flow Real Estate Hub",
+    "platform": "Discord",
+    "category": "Cash Flow",
+    "memberCount": "65,000+ members",
+    "description": "Live financial analysis, cap rate calculators, cash-on-cash yield breakdowns, and deal underwriting.",
+    "joinUrl": "https://discord.gg/finance",
+    "tags": [
+      "cash-flow",
+      "underwriting",
+      "finance",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-discord-26",
+    "title": "Business & Real Estate Network",
+    "platform": "Discord",
+    "category": "Business Scaling",
+    "memberCount": "50,000+ members",
+    "description": "Scaling real estate wholesaling operations, cold calling scripts, VA management, and CRM automation.",
+    "joinUrl": "https://discord.gg/business",
+    "tags": [
+      "business-scaling",
+      "wholesaling",
+      "discord",
+      "automation"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-discord-27",
+    "title": "Real Estate Entrepreneurs Syndicate",
+    "platform": "Discord",
+    "category": "Entrepreneurs",
+    "memberCount": "55,000+ members",
+    "description": "Founders, flippers, and wholesalers sharing live deal contracts, title company contacts, and private lenders.",
+    "joinUrl": "https://discord.gg/entrepreneur",
+    "tags": [
+      "entrepreneurs",
+      "private-lenders",
+      "discord",
+      "dealflow"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-telegram-28",
+    "title": "Property Investors Global Telegram Channel",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "18,500+ members",
+    "description": "Daily verified property deal flow, worldwide market analysis, and real estate investing strategies.",
+    "joinUrl": "https://t.me/propertyinvestors",
+    "tags": [
+      "telegram",
+      "property-deals",
+      "dealflow",
+      "global"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-telegram-29",
+    "title": "Real Estate Market Pulse Telegram",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "14,200+ members",
+    "description": "Instant alerts on interest rate shifts, housing inventory updates, and institutional buying trends.",
+    "joinUrl": "https://t.me/realestatemarket",
+    "tags": [
+      "telegram",
+      "market-alerts",
+      "inventory",
+      "rates"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "private-equity-m-a-dealmakers-hub-telegram-30",
+    "title": "Global Real Estate News & Intelligence",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "22,000+ members",
+    "description": "Fast-breaking news on property zoning changes, commercial developments, and mortgage rate forecasts.",
+    "joinUrl": "https://t.me/realestatenews",
+    "tags": [
+      "telegram",
+      "news",
+      "zoning",
+      "commercial"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
