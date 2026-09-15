@@ -1,5 +1,24 @@
 [
   {
+    "id": "private-equity-ma-dealmakers-hub-telegram-20260915-1",
+    "title": "Macro Markets & Real Estate Liquidity",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "42,000+ members",
+    "description": "Real-time liquidity tracking and financial conditions impacting mortgage rates and real estate credit.",
+    "joinUrl": "https://t.me/daytrading",
+    "tags": [
+      "telegram",
+      "liquidity",
+      "credit",
+      "macro"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-15"
+  },
+  {
     "id": "private-equity-ma-dealmakers-hub-telegram-20260914-1",
     "title": "Global Investors Alpha Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
