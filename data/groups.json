@@ -1,5 +1,24 @@
 [
   {
+    "id": "private-equity-ma-dealmakers-hub-reddit-20260920-1",
+    "title": "ADU & Micro-Unit Development Guild",
+    "platform": "Reddit",
+    "category": "Adu",
+    "memberCount": "480,000+ members",
+    "description": "Accessory Dwelling Units (ADU), tiny house zoning laws, and high-density cashflow rental strategies.",
+    "joinUrl": "https://www.reddit.com/r/TinyHouses/",
+    "tags": [
+      "adu",
+      "micro-units",
+      "zoning",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-20"
+  },
+  {
     "id": "private-equity-ma-dealmakers-hub-reddit-20260919-1",
     "title": "Historic & Classic Property Restoration",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-19"
   },
   {
