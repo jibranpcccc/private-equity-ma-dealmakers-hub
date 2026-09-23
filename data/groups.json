@@ -1,5 +1,24 @@
 [
   {
+    "id": "private-equity-ma-dealmakers-hub-reddit-20260923-1",
+    "title": "Futures Trading & Micro Contracts",
+    "platform": "Reddit",
+    "category": "Futures",
+    "memberCount": "160,000+ members",
+    "description": "Dedicated discussions on ES, NQ, and CL futures, prop evaluation drawdown rules, and contract specifications.",
+    "joinUrl": "https://www.reddit.com/r/FuturesTrading/",
+    "tags": [
+      "futures",
+      "es-nq",
+      "evaluations",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-23"
+  },
+  {
     "id": "private-equity-ma-dealmakers-hub-reddit-20260922-1",
     "title": "Forex & Currency Traders Hub",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-22"
   },
   {
