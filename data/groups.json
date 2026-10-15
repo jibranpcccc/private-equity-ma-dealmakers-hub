@@ -1,5 +1,24 @@
 [
   {
+    "id": "private-equity-ma-dealmakers-hub-telegram-20261015-1",
+    "title": "TradingView Official Idea Stream",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "85,000+ members",
+    "description": "Top community published charts, script releases, algorithmic backtests, and indicator updates.",
+    "joinUrl": "https://t.me/tradingview",
+    "tags": [
+      "telegram",
+      "tradingview",
+      "charts",
+      "backtests"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-15"
+  },
+  {
     "id": "private-equity-ma-dealmakers-hub-telegram-20261013-1",
     "title": "Forex Technical Analysis & Key Levels",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-13"
   },
   {
