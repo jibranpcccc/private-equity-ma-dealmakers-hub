@@ -1,5 +1,24 @@
 [
   {
+    "id": "private-equity-ma-dealmakers-hub-reddit-20261020-1",
+    "title": "r/defi Decentralized Finance",
+    "platform": "Reddit",
+    "category": "DeFi Alpha",
+    "memberCount": "180,000+ members",
+    "description": "Community dedicated to yield farming, automated market makers (AMMs), lending protocols, and liquidity pools.",
+    "joinUrl": "https://www.reddit.com/r/defi/",
+    "tags": [
+      "defi",
+      "yield",
+      "liquidity",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-20"
+  },
+  {
     "id": "private-equity-ma-dealmakers-hub-reddit-20261019-1",
     "title": "r/ethereum Developers & Tech",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-19"
   },
   {
