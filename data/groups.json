@@ -1,5 +1,24 @@
 [
   {
+    "id": "private-equity-ma-dealmakers-hub-discord-20261022-1",
+    "title": "Ethereum Official Discord",
+    "platform": "Discord",
+    "category": "Web3 & Blockchain",
+    "memberCount": "180,000+ members",
+    "description": "Community server connecting core developers, Solidity researchers, and decentralized application creators.",
+    "joinUrl": "https://discord.gg/solana",
+    "tags": [
+      "ethereum",
+      "web3",
+      "solidity",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-22"
+  },
+  {
     "id": "private-equity-ma-dealmakers-hub-reddit-20261021-1",
     "title": "r/solana High Throughput",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-21"
   },
   {
