@@ -1,5 +1,24 @@
 [
   {
+    "id": "private-equity-m-a-dealmakers-hub-reddit-1",
+    "title": "r/investing Long Term Wealth",
+    "platform": "Reddit",
+    "category": "Investing",
+    "memberCount": "2,600,000+ members",
+    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
+    "tags": [
+      "investing",
+      "stocks",
+      "wealth",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "private-equity-ma-dealmakers-hub-forum-20261101-1",
     "title": "Hacker News Community",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -796,24 +815,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "private-equity-m-a-dealmakers-hub-reddit-1",
-    "title": "r/investing Long Term Wealth",
-    "platform": "Reddit",
-    "category": "Investing",
-    "memberCount": "2,600,000+ members",
-    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
-    "joinUrl": "https://www.reddit.com/r/investing/",
-    "tags": [
-      "investing",
-      "stocks",
-      "wealth",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "private-equity-m-a-dealmakers-hub-reddit-2",
