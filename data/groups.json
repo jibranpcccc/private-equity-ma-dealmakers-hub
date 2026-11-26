@@ -1,5 +1,24 @@
 [
   {
+    "id": "private-equity-m-a-dealmakers-hub-forum-9",
+    "title": "Bogleheads Forum Community",
+    "platform": "Forum",
+    "category": "Passive Investing",
+    "memberCount": "250,000+ members",
+    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
+    "joinUrl": "https://bogleheads.org/forum/",
+    "tags": [
+      "bogleheads",
+      "indexing",
+      "forum",
+      "passive-investing"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "private-equity-m-a-dealmakers-hub-telegram-8",
     "title": "Bloomberg Market Feed Channel",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -948,24 +967,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "private-equity-m-a-dealmakers-hub-forum-9",
-    "title": "Bogleheads Forum Community",
-    "platform": "Forum",
-    "category": "Passive Investing",
-    "memberCount": "250,000+ members",
-    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
-    "joinUrl": "https://bogleheads.org/forum/",
-    "tags": [
-      "bogleheads",
-      "indexing",
-      "forum",
-      "passive-investing"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "private-equity-m-a-dealmakers-hub-forum-10",
